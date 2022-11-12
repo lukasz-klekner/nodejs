@@ -1,0 +1,4 @@
+In Białystok there is 19.1°C, 28.4% of humidity and pressure of 1025.5 pHa.2022-05-19 2:39:22 PM: In Białystok there is 21.5°C, 20.5% of humidity and pressure of 1023.3 pHa.
+2022-05-19 2:41:28 PM: In Białystok there is 21.5°C, 20.5% of humidity and pressure of 1023.3 pHa.
+2022-05-20 2:00:05 PM: In Białystok there is 24.4°C, 37.3% of humidity and pressure of 1013.5 pHa.
+2022-05-20 2:07:07 PM: In Białystok there is 24.4°C, 37.3% of humidity and pressure of 1013.5 pHa.

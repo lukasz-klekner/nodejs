@@ -1,0 +1,16 @@
+2022-05-19 12:09:29 PM: In Zakopane there is 16.5°C, 43.4% of humidity and pressure of null pHa.
+2022-05-19 12:09:37 PM: In Zakopane there is 16.5°C, 43.4% of humidity and pressure of null pHa.
+2022-05-19 12:17:59 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:18:20 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:18:57 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:19:45 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:20:13 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:20:28 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:21:52 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:22:20 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:23:34 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:23:43 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 12:25:26 PM: In Zakopane there is 17.7°C, 39.3% of humidity and pressure of null pHa.
+2022-05-19 2:41:36 PM: In Zakopane there is 19.3°C, 31.4% of humidity and pressure of 0 pHa.2022-05-20 1:59:00 PM: In Zakopane there is 22.2°C, 39.4% of humidity and pressure of 0 pHa.
+2022-05-20 1:59:17 PM: In Zakopane there is 22.2°C, 39.4% of humidity and pressure of 0 pHa.
+2022-05-20 1:59:46 PM: In Zakopane there is 22.2°C, 39.4% of humidity and pressure of 0 pHa.
