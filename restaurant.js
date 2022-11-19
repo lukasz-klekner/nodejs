@@ -23,7 +23,7 @@ export class Restaurant extends EventEmitter {
    */
   reserveTable() {
     // Emit...
-    this.emit('book', 'Booking a table')
+    this.emit('tableCountChange', -1)
   }
 
   /**
@@ -32,7 +32,7 @@ export class Restaurant extends EventEmitter {
    */
   cancelTableReservation() {
     // Emit...
-    this.emit('cancel', 'Canceling a table')
+    this.emit('tableCountChange', +1)
   }
 
   /**
@@ -40,7 +40,7 @@ export class Restaurant extends EventEmitter {
    */
   takeTableWithoutReservation() {
     // Emit...
-    this.emit('free', 'Free booking a table')
+    this.emit('tableCountChange', -1)
   }
 
   /**
@@ -48,7 +48,7 @@ export class Restaurant extends EventEmitter {
    */
   markTableAsBroken() {
     // Emit...
-    this.emit('broke', 'broken table')
+    this.emit('tableCountChange', -1)
   }
 
   /**
@@ -56,6 +56,6 @@ export class Restaurant extends EventEmitter {
    */
   cleanupTable() {
     // Emit...
-    this.emit('clean up', 'Cleaning up a table')
+    this.emit('tableCountChange', +1)
   }
 }

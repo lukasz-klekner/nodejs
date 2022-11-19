@@ -7,17 +7,8 @@ let tablesCount = 25
 megaRestaurant
   .on('open', (data) => console.log(data))
   .on('close', (data) => console.log(data))
-  .on('free', () => {
-    tablesCount > 0 ? (tablesCount = tablesCount - 1) : tablesCount
-  })
-  .on('book', () => {
-    tablesCount > 0 ? (tablesCount = tablesCount - 1) : tablesCount
-  })
-  .on('cancel', () => {
-    tablesCount++
-  })
-  .on('clean up', () => {
-    tablesCount++
+  .on('tableCountChange', (data) => {
+    tablesCount += data
   })
 
 megaRestaurant.open() // "Otwarto restaurację."
